@@ -15,19 +15,17 @@ This project aims to predict Bitcoin prices using Artificial Neural Networks (AN
 ### Prerequisites
 Ensure you have Python installed along with the necessary libraries:
 
-```bash
-pip install numpy pandas matplotlib tensorflow scikit-learn
-```
+-> pip install numpy pandas matplotlib tensorflow scikit-learn
+
 
 ### Clone the Repository
-```bash
-git clone https://github.com/yourusername/bitcoin-price-prediction.git
-cd bitcoin-price-prediction
+git clone https://github.com/Sahab00/Ann_Price_prediction_project.git
+cd Ann_Price_prediction_project
+
 ```
 
 ## Usage
 Run the Jupyter Notebook:
-```bash
 jupyter notebook Ann_price_prediction.ipynb
 ```
 
